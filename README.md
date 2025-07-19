@@ -7,9 +7,13 @@ ProRentals is an online rental and optional purchase platform for high-value ite
 ## 📁 Project Structure
 
 Pro-Rentals/
+
 ├── backend/ # Node.js & Express.js backend with MongoDB
+
 ├── frontend/ # React.js frontend using TailwindCSS
+
 ├── database/ # MongoDB schema and sample data
+
 └── README.md # Project documentation
 
 
